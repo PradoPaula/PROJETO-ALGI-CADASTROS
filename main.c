@@ -1,5 +1,5 @@
 /*   Tema do trabalho:Pacotes fotograficos
-Integrantes:  Essuelem Martins de Lima, Paula Karoline B. Prado
+Aluna:  Paula Karoline B. Prado
 Dificuldades encontradas:  começar a desenvolver, fazer a listagem, fazer a parte de remover item.           
 Editor utilizado: Dev-C++
 Sistema Operacional Utilizado: Windows 10 */ 
