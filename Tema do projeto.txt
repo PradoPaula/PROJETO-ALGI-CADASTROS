@@ -1,0 +1,7 @@
+Fazer um sistema de cadastro e consulta de itens, similar a um controle de estoque, ficando o tema a cargo
+dos grupos, como por exemplo, um controle doméstico de dispensa, controle de estoque em lojas,
+farmácias, etc.
+
+Metodologia
+Criar um sistema para controle de entrada e saída de itens. O sistema deve permitir o cadastro do item, a
+alteração, a remoção e a listagem.
